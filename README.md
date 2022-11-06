@@ -22,7 +22,6 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Auto-Answer.js">Auto-Answer</a> - Automatically answers all questions right immediately.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Custom%20Blooks.js">Custom Blooks</a> - Spoof your Custom Blooks with IDs, no matter if you unlocked the accessories or not!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Flood%20Game.js">Flood Game</a> - Flood the game that you are in.
-    - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Set%20Points.js">Set Points</a> - Get points in the Classic mode.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Manipulate%20Plus.js">Manipulate Plus</a> - Gives you access in a spoof to play gamemodes that only Plus and/or Plus Flex can play.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Select%20Any%20Blook.js">Select Any Blook</a> - Be able to select any Blook before the game starts, including Mysticals and test Blooks!
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Default%20Scripts/Sell%20Dupes.js">Sell Dupes</a> - Sell all of your duplicate Blooks, so you have one (or zero) of each.
@@ -107,8 +106,10 @@
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Coins.js">Set Coins</a> - Set your coins.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Set%20Health.js">Set Health</a> - Set your health.
     - <a href="https://github.com/rxzyx/Blooket-Hacks/blob/main/Tower%20Of%20Doom/Max%20Stats.js">Max Stats</a> - Make your current card overpowered.
+    
 
-
+- Classic:
+    - <a href="https://github.com/BlooketHeck/Blooket-Hacks/blob/patch-6/Classic/Set%20Answer%20Points.js">Set Answer Points</a> - Set your points.
 #### I am not responsible for your actions with these cheats.
 
 <h3 align="left">Made With JavaScript:</h3>
